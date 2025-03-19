@@ -10,7 +10,7 @@
 - 🏃 跑不动
 
 ### Visitors
-![Visitor Count](https://profile-counter.glitch.me/andrelau0622/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/SersonZhang/count.svg)
 ### Languages
 ![Top Langs](
 https://github-readme-stats.vercel.app/api/top-langs/?username=andrelau0622&layout=compact&theme=dark)
