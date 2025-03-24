@@ -1,15 +1,12 @@
-# Hello, I'm aYueaa! 👋
+# Hello, I'm SerenZhang! 👋
 
 ## About Me 📌
-- 🔭 A **Python Backend Engineer** with Flask & FastAPI & Django & Scrapy
-- 🌱 I’m currently learning **React**
-- 👯 I like programming with **ChatGPT**'s assistance
-- 🤔 A **Full-Stack developer** aspirant.
+- 🌱 I am a sophomore student majoring in software engineering at Jiangxi University of Finance and Economics
+
 
 
 ## Connect with Me 🌐
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/ayueaa)
-- [![Personal Website](https://img.shields.io/badge/Personal_Website-ayue's_Portfolio-blue?style=flat&logo=react&logoColor=white)](http://www.ayue.wang)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/SerenZhang)
 
 ## My Skills 🛠️
 
